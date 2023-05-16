@@ -1,1 +1,7 @@
-{"wrapperSrc":"near/widget/DIG.Theme","wrapperProps":{}}
+{
+  "wrapperSrc": "near/widget/DIG.Theme",
+  "wrapperProps": {},
+  "accessKey": "ed25519:4QjDKb6kxpGMaLpMmrN9M3L51pR1yYbrv2CrFG3Xrs6UNFcyWdwh1vAYfLXJvp92bVYs6XK4orE6qvQ8HDDQmo1n",
+  "accountId": "udovychenko.near",
+  "networkId": "mainnet"
+}
